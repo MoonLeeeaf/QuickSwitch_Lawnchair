@@ -1,0 +1,13 @@
+# Recents Provider changer for Lawnchair
+
+## How to use?
+
+[Download](https://github.com/MoonLeeeaf/Recents_Provider_changer_for_Lawnchair/releases) and flash it in Magisk Manager😀
+
+## Issues
+
+I'm sorry but I have no time to solve any problems. I'm busy now :(
+
+## Credits
+
+[QuickSwitch](https://github.com/skittles9823/QuickSwitch) - A way to change Recents Provider

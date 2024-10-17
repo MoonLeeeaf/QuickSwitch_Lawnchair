@@ -1,0 +1,6 @@
+id=quickswitch_lawnchair
+name=QuickSwitch Lawnchair
+version=1.0.0
+versionCode=10000
+author=满月叶
+description=本模块能让 app.lawnchair.debug 作为一个 Recents Provider，由于 QuickSwitch 的问题而制作了这个模块，有需要的请自行修改包名
